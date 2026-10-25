@@ -1,6 +1,6 @@
 # Último Scout
 
-Plataforma web de scouting para centralizar, validar e facilitar a busca por atletas de futebol amador e universitário na faixa etária de 18 a 23 anos.
+Plataforma web de scouting para centralizar, validar e facilitar a busca por atletas de futebol amador e universitário acima de 18 anos.
 
 ## Problema abordado
 
